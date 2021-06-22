@@ -1,7 +1,7 @@
 # Kiba 🧭
 Names | Details
 --------|-----
-Source |kiba
+Source |tryhackme
 Level     | easy
 Os |linux
 
