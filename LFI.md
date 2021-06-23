@@ -4,7 +4,7 @@ Names | Details
 --------|-----
 Source | tryhacckme
 Level     | easy
-Os |
+Os |linux
 
 **Notes :**
 
