@@ -39,7 +39,7 @@ give some perm and read it "ChangeMeBaby1MoreTime"
 
 
 --------------------------------
-**By Whois~TCP ** 🤓🖥️
+**By Mohd-Jishin ** 🤓🖥️
 
 
 
